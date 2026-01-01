@@ -1,9 +1,9 @@
 
 
-# 🧰  README
+# 🧰  Memory Safety Lab (C + gdb + ASan) 🧨
 
 ````md
-# Memory Safety Lab (C + gdb + ASan) 🧨
+
 
 This repo documents hands-on work reproducing and diagnosing classic memory-safety failures in C,
 with a vulnerability-research lens: evidence, root cause, and fixes.
